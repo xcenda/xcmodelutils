@@ -1,4 +1,4 @@
-xcmodelutils
+XCModelUtils
 ============
 
-XCModelUtils
+iOS Project
